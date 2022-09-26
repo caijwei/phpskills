@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills;
+<?php namespace Caijw\Skills;
 
 /**
  * Represents a player who has a Rating.

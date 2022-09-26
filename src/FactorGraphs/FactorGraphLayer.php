@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills\FactorGraphs;
+<?php namespace Caijw\Skills\FactorGraphs;
 // edit this
 abstract class FactorGraphLayer
 {

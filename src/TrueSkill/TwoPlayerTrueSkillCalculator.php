@@ -1,16 +1,16 @@
-<?php namespace Moserware\Skills\TrueSkill;
+<?php namespace Caijw\Skills\TrueSkill;
 
-use Moserware\Skills\GameInfo;
-use Moserware\Skills\Guard;
-use Moserware\Skills\Numerics\BasicMath;
-use Moserware\Skills\PairwiseComparison;
-use Moserware\Skills\RankSorter;
-use Moserware\Skills\Rating;
-use Moserware\Skills\RatingContainer;
-use Moserware\Skills\SkillCalculator;
-use Moserware\Skills\SkillCalculatorSupportedOptions;
-use Moserware\Skills\PlayersRange;
-use Moserware\Skills\TeamsRange;
+use Caijw\Skills\GameInfo;
+use Caijw\Skills\Guard;
+use Caijw\Skills\Numerics\BasicMath;
+use Caijw\Skills\PairwiseComparison;
+use Caijw\Skills\RankSorter;
+use Caijw\Skills\Rating;
+use Caijw\Skills\RatingContainer;
+use Caijw\Skills\SkillCalculator;
+use Caijw\Skills\SkillCalculatorSupportedOptions;
+use Caijw\Skills\PlayersRange;
+use Caijw\Skills\TeamsRange;
 
 /**
  * Calculates the new ratings for only two players.

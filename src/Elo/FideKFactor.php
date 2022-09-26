@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills\Elo;
+<?php namespace Caijw\Skills\Elo;
 
 // see http://ratings.fide.com/calculator_rtd.phtml for details
 class FideKFactor extends KFactor

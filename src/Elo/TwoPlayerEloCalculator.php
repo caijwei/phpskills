@@ -1,13 +1,13 @@
-<?php namespace Moserware\Skills\Elo;
+<?php namespace Caijw\Skills\Elo;
 
 use Exception;
-use Moserware\Skills\GameInfo;
-use Moserware\Skills\PairwiseComparison;
-use Moserware\Skills\RankSorter;
-use Moserware\Skills\SkillCalculator;
-use Moserware\Skills\SkillCalculatorSupportedOptions;
-use Moserware\Skills\PlayersRange;
-use Moserware\Skills\TeamsRange;
+use Caijw\Skills\GameInfo;
+use Caijw\Skills\PairwiseComparison;
+use Caijw\Skills\RankSorter;
+use Caijw\Skills\SkillCalculator;
+use Caijw\Skills\SkillCalculatorSupportedOptions;
+use Caijw\Skills\PlayersRange;
+use Caijw\Skills\TeamsRange;
 
 abstract class TwoPlayerEloCalculator extends SkillCalculator
 {

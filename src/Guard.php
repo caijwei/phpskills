@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills;
+<?php namespace Caijw\Skills;
 
 use Exception;
 

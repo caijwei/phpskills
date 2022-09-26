@@ -1,6 +1,6 @@
-<?php namespace Moserware\Skills;
+<?php namespace Caijw\Skills;
 
-use Moserware\Skills\Numerics\Range;
+use Caijw\Skills\Numerics\Range;
 
 class TeamsRange extends Range
 {

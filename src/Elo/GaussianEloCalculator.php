@@ -1,7 +1,7 @@
-<?php namespace Moserware\Skills\Elo;
+<?php namespace Caijw\Skills\Elo;
 
-use Moserware\Skills\GameInfo;
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\GameInfo;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 class GaussianEloCalculator extends TwoPlayerEloCalculator
 {

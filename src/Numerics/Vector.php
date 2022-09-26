@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills\Numerics;
+<?php namespace Caijw\Skills\Numerics;
 
 class Vector extends Matrix
 {

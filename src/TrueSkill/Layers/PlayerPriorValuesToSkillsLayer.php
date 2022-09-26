@@ -1,11 +1,11 @@
-<?php namespace Moserware\Skills\TrueSkill\Layers;
+<?php namespace Caijw\Skills\TrueSkill\Layers;
 
-use Moserware\Skills\Numerics\BasicMath;
-use Moserware\Skills\Rating;
-use Moserware\Skills\FactorGraphs\ScheduleStep;
-use Moserware\Skills\FactorGraphs\Variable;
-use Moserware\Skills\TrueSkill\TrueSkillFactorGraph;
-use Moserware\Skills\TrueSkill\Factors\GaussianPriorFactor;
+use Caijw\Skills\Numerics\BasicMath;
+use Caijw\Skills\Rating;
+use Caijw\Skills\FactorGraphs\ScheduleStep;
+use Caijw\Skills\FactorGraphs\Variable;
+use Caijw\Skills\TrueSkill\TrueSkillFactorGraph;
+use Caijw\Skills\TrueSkill\Factors\GaussianPriorFactor;
 
 // We intentionally have no Posterior schedule since the only purpose here is to
 // start the process.

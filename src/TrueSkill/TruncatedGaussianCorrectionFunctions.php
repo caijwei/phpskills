@@ -1,6 +1,6 @@
-<?php namespace Moserware\Skills\TrueSkill;
+<?php namespace Caijw\Skills\TrueSkill;
 
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 class TruncatedGaussianCorrectionFunctions
 {

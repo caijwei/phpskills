@@ -1,10 +1,10 @@
-<?php namespace Moserware\Skills\TrueSkill\Layers;
+<?php namespace Caijw\Skills\TrueSkill\Layers;
 
 use Exception;
-use Moserware\Skills\FactorGraphs\ScheduleLoop;
-use Moserware\Skills\FactorGraphs\ScheduleSequence;
-use Moserware\Skills\FactorGraphs\ScheduleStep;
-use Moserware\Skills\TrueSkill\TrueSkillFactorGraph;
+use Caijw\Skills\FactorGraphs\ScheduleLoop;
+use Caijw\Skills\FactorGraphs\ScheduleSequence;
+use Caijw\Skills\FactorGraphs\ScheduleStep;
+use Caijw\Skills\TrueSkill\TrueSkillFactorGraph;
 
 // The whole purpose of this is to do a loop on the bottom
 class IteratedTeamDifferencesInnerLayer extends TrueSkillFactorGraphLayer

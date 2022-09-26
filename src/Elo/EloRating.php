@@ -1,6 +1,6 @@
-<?php namespace Moserware\Skills\Elo;
+<?php namespace Caijw\Skills\Elo;
 
-use Moserware\Skills\Rating;
+use Caijw\Skills\Rating;
 
 /**
  * An Elo rating represented by a single number (mean).

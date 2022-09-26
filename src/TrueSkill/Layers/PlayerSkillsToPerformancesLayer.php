@@ -1,10 +1,10 @@
-<?php namespace Moserware\Skills\TrueSkill\Layers;
+<?php namespace Caijw\Skills\TrueSkill\Layers;
 
-use Moserware\Skills\FactorGraphs\ScheduleStep;
-use Moserware\Skills\FactorGraphs\KeyedVariable;
-use Moserware\Skills\Numerics\BasicMath;
-use Moserware\Skills\TrueSkill\TrueSkillFactorGraph;
-use Moserware\Skills\TrueSkill\Factors\GaussianLikelihoodFactor;
+use Caijw\Skills\FactorGraphs\ScheduleStep;
+use Caijw\Skills\FactorGraphs\KeyedVariable;
+use Caijw\Skills\Numerics\BasicMath;
+use Caijw\Skills\TrueSkill\TrueSkillFactorGraph;
+use Caijw\Skills\TrueSkill\Factors\GaussianLikelihoodFactor;
 
 class PlayerSkillsToPerformancesLayer extends TrueSkillFactorGraphLayer
 {

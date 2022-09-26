@@ -1,8 +1,8 @@
-<?php namespace Moserware\Skills\TrueSkill\Layers;
+<?php namespace Caijw\Skills\TrueSkill\Layers;
 
-use Moserware\Skills\FactorGraphs\Variable;
-use Moserware\Skills\TrueSkill\TrueSkillFactorGraph;
-use Moserware\Skills\TrueSkill\Factors\GaussianWeightedSumFactor;
+use Caijw\Skills\FactorGraphs\Variable;
+use Caijw\Skills\TrueSkill\TrueSkillFactorGraph;
+use Caijw\Skills\TrueSkill\Factors\GaussianWeightedSumFactor;
 
 class TeamPerformancesToTeamPerformanceDifferencesLayer extends TrueSkillFactorGraphLayer
 {

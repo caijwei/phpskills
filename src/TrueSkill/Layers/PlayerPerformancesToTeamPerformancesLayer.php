@@ -1,11 +1,11 @@
-<?php namespace Moserware\Skills\TrueSkill\Layers;
+<?php namespace Caijw\Skills\TrueSkill\Layers;
 
-use Moserware\Skills\PartialPlay;
-use Moserware\Skills\FactorGraphs\ScheduleLoop;
-use Moserware\Skills\FactorGraphs\ScheduleSequence;
-use Moserware\Skills\FactorGraphs\ScheduleStep;
-use Moserware\Skills\TrueSkill\Factors\GaussianWeightedSumFactor;
-use Moserware\Skills\TrueSkill\TrueSkillFactorGraph;
+use Caijw\Skills\PartialPlay;
+use Caijw\Skills\FactorGraphs\ScheduleLoop;
+use Caijw\Skills\FactorGraphs\ScheduleSequence;
+use Caijw\Skills\FactorGraphs\ScheduleStep;
+use Caijw\Skills\TrueSkill\Factors\GaussianWeightedSumFactor;
+use Caijw\Skills\TrueSkill\TrueSkillFactorGraph;
 
 class PlayerPerformancesToTeamPerformancesLayer extends TrueSkillFactorGraphLayer
 {

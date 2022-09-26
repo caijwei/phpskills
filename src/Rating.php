@@ -1,7 +1,7 @@
-<?php namespace Moserware\Skills;
+<?php namespace Caijw\Skills;
 
 // Container for a player's rating.
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 class Rating
 {

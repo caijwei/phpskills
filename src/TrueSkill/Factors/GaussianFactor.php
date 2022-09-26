@@ -1,9 +1,9 @@
-<?php namespace Moserware\Skills\TrueSkill\Factors;
+<?php namespace Caijw\Skills\TrueSkill\Factors;
 
-use Moserware\Skills\FactorGraphs\Factor;
-use Moserware\Skills\FactorGraphs\Message;
-use Moserware\Skills\FactorGraphs\Variable;
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\FactorGraphs\Factor;
+use Caijw\Skills\FactorGraphs\Message;
+use Caijw\Skills\FactorGraphs\Variable;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 abstract class GaussianFactor extends Factor
 {

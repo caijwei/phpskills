@@ -1,4 +1,4 @@
-<?php namespace Moserware\Skills\FactorGraphs;
+<?php namespace Caijw\Skills\FactorGraphs;
 
 abstract class Schedule
 {

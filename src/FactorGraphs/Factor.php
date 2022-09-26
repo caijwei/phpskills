@@ -1,8 +1,8 @@
-<?php namespace Moserware\Skills\FactorGraphs;
+<?php namespace Caijw\Skills\FactorGraphs;
 
 use Exception;
-use Moserware\Skills\Guard;
-use Moserware\Skills\HashMap;
+use Caijw\Skills\Guard;
+use Caijw\Skills\HashMap;
 
 abstract class Factor
 {

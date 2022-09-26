@@ -1,10 +1,10 @@
-<?php namespace Moserware\Skills\TrueSkill\Factors;
+<?php namespace Caijw\Skills\TrueSkill\Factors;
 
 use Exception;
-use Moserware\Skills\FactorGraphs\KeyedVariable;
-use Moserware\Skills\FactorGraphs\Message;
-use Moserware\Skills\FactorGraphs\Variable;
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\FactorGraphs\KeyedVariable;
+use Caijw\Skills\FactorGraphs\Message;
+use Caijw\Skills\FactorGraphs\Variable;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 /**
  * Connects two variables and adds uncertainty.

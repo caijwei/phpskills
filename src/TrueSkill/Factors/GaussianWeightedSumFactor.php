@@ -1,10 +1,10 @@
-<?php namespace Moserware\Skills\TrueSkill\Factors;
+<?php namespace Caijw\Skills\TrueSkill\Factors;
 
-use Moserware\Skills\Guard;
-use Moserware\Skills\FactorGraphs\Message;
-use Moserware\Skills\FactorGraphs\Variable;
-use Moserware\Skills\Numerics\BasicMath;
-use Moserware\Skills\Numerics\GaussianDistribution;
+use Caijw\Skills\Guard;
+use Caijw\Skills\FactorGraphs\Message;
+use Caijw\Skills\FactorGraphs\Variable;
+use Caijw\Skills\Numerics\BasicMath;
+use Caijw\Skills\Numerics\GaussianDistribution;
 
 /**
  * Factor that sums together multiple Gaussians.
