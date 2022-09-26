@@ -56,7 +56,7 @@ abstract class SkillCalculator
         $countOfTeams = 0;
 
         foreach ($teams as $currentTeam) {
-            if (!$playersPerTeam->isInRange(count($currentTeam))) {
+            if (!$playersPerTeam->isInRange($currentTeam->count())) {
                 throw new Exception("Player count is not in range");
             }
             $countOfTeams++;
